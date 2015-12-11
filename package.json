@@ -1,0 +1,23 @@
+{
+  "name": "MTGFetchBot",
+  "version": "0.1.0",
+  "description": "Slack bot using:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CBXZero/MTGFetchBot.git"
+  },
+  "author": "CBXZero",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CBXZero/MTGFetchBot/issues"
+  },
+  "dependencies" : {
+    "tutor" : "*",
+    "jquery" : "*",
+    "slack-client" : "*"
+  }
+}
